@@ -21,9 +21,9 @@
 	\titlepage
 \end{frame}
 
-% \begin{frame}{Esquema}
-% 	\tableofcontents[currentsection]
-% \end{frame}
+\begin{frame}{Esquema}
+	\tableofcontents[currentsection]
+\end{frame}
 
 \section{Introducci\'on}
 \subsection{Software Libre}
